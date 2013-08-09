@@ -30,6 +30,11 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
+  <project path="default" name="CyanogenMod/android_device_sony_nypon" path="device/sony/nypon" />
+  <project path="default" name="CyanogenMod/android_device_sony_kumquat" path="device/sony/kumquat" />
+  <project path="default" name="CyanogenMod/android_device_sony_lotus" path="device/sony/lotus" />
+  <project path="default" name="CyanogenMod/android_device_sony_pepper" path="device/sony/pepper" />
+  <project path="default" name="CyanogenMod/android_device_sony_montblanc-common" path="device/sony/montblanc-common" /> 
   <project path="device/sample" name="device/sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
